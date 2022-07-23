@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: beige;
+}
+.block{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    color:bisque;
+    border: solid 2px black;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border: 2px black solid;
+    margin: 25px;
+}
